@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yulei Wang | 王玉磊"
+title                    : "Yulei Wang"
 title_separator          : "-"
 name                     : &name "Yulei Wang"
 description              : &description "personal description"
